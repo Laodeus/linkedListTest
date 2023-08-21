@@ -1,0 +1,5 @@
+{
+    "watch": ["tests/", "src/"],
+    "ext": "*", 
+    "exec": "npm test"
+}
